@@ -1,0 +1,46 @@
+td {
+	padding:0px 10px 2px 0px;
+}
+
+.spacingRow{
+height:30px;
+}
+
+@font-face {
+  font-family: LondonFont;
+  src: url(London-Underground-Normal.ttf);
+}
+
+* {
+	font-family: LondonFont;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1, #disclaimer{
+	text-align: center;
+}
+
+#disclaimer{
+	color: #a3a3a3;
+	padding-top: 30px;
+}
+
+#button {
+  border: none;
+  color: white;
+	background-color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 30px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+	 margin: 0 auto;
+    display: block;
+}
