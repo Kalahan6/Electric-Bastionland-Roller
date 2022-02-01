@@ -1,6 +1,8 @@
 td {
 	padding:0px 10px 2px 0px;
+	font-size: 16pt;
 }
+
 
 .spacingRow{
 height:30px;
@@ -41,6 +43,7 @@ h1, #disclaimer{
 	margin: 0 auto ;
 	margin-top: 30px;
 	display: block;
+	font-size: 16pt;
 }
 
 .displayCell {
