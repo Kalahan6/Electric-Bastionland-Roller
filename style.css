@@ -41,6 +41,7 @@ h1, #disclaimer{
   margin: 30px;
   transition-duration: 0.4s;
   cursor: pointer;
-	 margin: 0 auto;
-    display: block;
+	margin: 0 auto ;
+	margin-top: 30px;
+	display: block;
 }
